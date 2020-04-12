@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   aria-hidden="true"
+   focusable="false"
+   data-prefix="fab"
+   data-icon="twitter"
+   class="svg-inline--fa fa-twitter fa-w-16"
+   role="img"
+   viewBox="0 0 40 40"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="twitter-brands.svg"
+   width="40"
+   height="40"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="5.2149125"
+     inkscape:cx="28.497958"
+     inkscape:cy="22.786274"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     style="fill:currentColor;stroke-width:0.05931836"
+     d="M 20.191406 0.19140625 A 20 20 0 0 0 0.19140625 20.191406 A 20 20 0 0 0 20.191406 40.191406 A 20 20 0 0 0 40.191406 20.191406 A 20 20 0 0 0 20.191406 0.19140625 z M 26.394531 7.7128906 C 28.186716 7.7128906 29.804392 8.4656185 30.941406 9.6796875 C 32.348141 9.4099075 33.697728 8.8887873 34.892578 8.1757812 C 34.430013 9.6211323 33.447374 10.834687 32.15625 11.605469 C 33.408876 11.470639 34.622558 11.124303 35.740234 10.642578 C 34.892456 11.875866 33.83321 12.974815 32.619141 13.861328 C 32.638421 14.131108 32.636719 14.400142 32.636719 14.669922 C 32.636719 22.898565 26.374695 32.380859 14.927734 32.380859 C 11.401137 32.380859 8.1248936 31.358785 5.3691406 29.585938 C 5.8702028 29.643718 6.3527063 29.662109 6.8730469 29.662109 C 9.782909 29.662109 12.460529 28.68048 14.599609 27.003906 C 11.863134 26.946066 9.5694174 25.154194 8.7792969 22.6875 C 9.1647476 22.74528 9.550349 22.783203 9.9550781 22.783203 C 10.513916 22.783203 11.073469 22.705147 11.59375 22.570312 C 8.7416643 21.992137 6.6015625 19.488424 6.6015625 16.462891 L 6.6015625 16.384766 C 7.4301807 16.847272 8.3947314 17.137283 9.4160156 17.175781 C 7.7394415 16.058045 6.640625 14.150546 6.640625 11.992188 C 6.640625 10.835954 6.9486622 9.7746204 7.4882812 8.8496094 C 10.552371 12.626707 15.159666 15.093442 20.324219 15.363281 C 20.227889 14.900776 20.169922 14.419284 20.169922 13.9375 C 20.169922 10.507238 22.945049 7.7128906 26.394531 7.7128906 z "
+     id="path2" />
+</svg>
